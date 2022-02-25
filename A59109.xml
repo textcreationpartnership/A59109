@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad and lamentable news from VVapping giving a true and just account of a most horrible and dreadful fire, which happened on Sunday the 19th. of Nov. 1682. Beginning at the house of one Capt. Allen, in Cinnamon-street, by the carelesness of a drunken fellow, a sawyer, who lodged in the house aforesaid, and by letting the candle fall into some shavings, he proved ruinous to some thousands now undone by the ont-ragious [sic] flames, which with uncontroulable force burned down two thousand houses, destroying all before it for a whole mile in length, and a quarter of a mile in breadth, burning down streets, lanes, allies, courts, yards, wharfs, cranes, the like never known before since the great fire of London. It continued twenty hours or more, to the ruine of many mens good estates, besides the loss of forty mens lives, who were destroyed in endeavouring to asswage the force of this terribel fire. Also, giving you a particular account of the great losses of several men, namely, Sir William Warren, the Lady Ivy, Mr. Hooper, M</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59109</idno>
+            <idno type="STC">Wing S244D</idno>
+            <idno type="STC">ESTC R219832</idno>
+            <idno type="EEBO-CITATION">99831279</idno>
+            <idno type="PROQUEST">99831279</idno>
+            <idno type="VID">35742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35742)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad and lamentable news from VVapping giving a true and just account of a most horrible and dreadful fire, which happened on Sunday the 19th. of Nov. 1682. Beginning at the house of one Capt. Allen, in Cinnamon-street, by the carelesness of a drunken fellow, a sawyer, who lodged in the house aforesaid, and by letting the candle fall into some shavings, he proved ruinous to some thousands now undone by the ont-ragious [sic] flames, which with uncontroulable force burned down two thousand houses, destroying all before it for a whole mile in length, and a quarter of a mile in breadth, burning down streets, lanes, allies, courts, yards, wharfs, cranes, the like never known before since the great fire of London. It continued twenty hours or more, to the ruine of many mens good estates, besides the loss of forty mens lives, who were destroyed in endeavouring to asswage the force of this terribel fire. Also, giving you a particular account of the great losses of several men, namely, Sir William Warren, the Lady Ivy, Mr. Hooper, M</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clarke, Seignior, at the Bible and Harp, near the Hospital-Gate, in West-smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Cropped at head affecting pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fires --  England --  Early works to 1800.</term>
+               <term>Wapping (London, England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35742:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 113 -->
+            <p>Sad and Lamentable News FROM VVapping: Giving a true and juſt Account of a moſt horrible and Dreadful Fire, Which happened on <hi>Sunday</hi> the 19th. of <hi>Nov.</hi> 1682.</p>
+            <p>Beginning at the Houſe of one Capt. <hi>Allen.</hi> in <hi>Cinnamon-ſtreet,</hi> by the careleſneſs of a drunken Fellow, a Sawyer, who lodged in the Houſe aforeſaid, and by letting the Candle fall into ſome Shavings, he proved ruinous to ſome Thouſands now undone by the out-ragious Flames, which with uncontroulable force burned down Two Thouſand Houſes, de<g ref="char:EOLhyphen"/>ſtroying all before it for a whole Mile in length, and a quarter of a Mile in breadth, burning down Streets, Lanes, Allies, Courts, Yards, Wharfs, Cranes, the like never known before ſince the great Fire of <hi>London.</hi> It continued Twenty Hours or more, to the ruine of many Mens good Eſtates, beſides the loſs of forty mens lives, who were deſtroyed in endeavouring to aſſwage the force of this terrible fire.</p>
+            <p>Alſo, giving you a particular account of the great loſſes of ſeveral Men, namely, Sir <hi>William War<g ref="char:EOLhyphen"/>ren,</hi> the Lady <hi>Ivy,</hi> Mr. <hi>Hooper,</hi> Mr. <hi>Hains,</hi> Mr. <hi>Wilſon,</hi> Mr. <hi>Jackſon;</hi> with many hundreds more, too tedious to particularize.</p>
+            <p>Printed for <hi>J. Clarke,</hi> Seignior, at the Bible and Harp, near the Hoſpital-Gate, in <hi>Weſt ſmithfield,</hi> 1682.</p>
+            <pb facs="tcp:35742:2"/>
+            <!-- PDF PAGE 114 -->
+            <pb facs="tcp:35742:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35742:3"/>
+            <!-- PDF PAGE 115 -->
+            <pb n="1" facs="tcp:35742:3"/>
+            <!-- PDF PAGE 115 -->
+            <head>Sad and Lamentable News from VVapping, &amp;c.</head>
+            <head type="sub">AMongſt the reſt of the Puniſhments inflicted upon us for our Iniquities, as Sword, Peſtilence, and Fire, the laſt hath proved very destructive at ſeveral times, yea, and ſo frequently, that it now begins to be terrible to our remembrance, eſpecially when we take Remarques of the direful effects thereof; But to proceed.</head>
+            <p>On <hi>Sunday November</hi> the 19th. 1682. about 9 or 10 of the Clock at night, a moſt dreadful and terrible, outragious and conſuming Fire broke out at <hi>Wapping,</hi> in <hi>Cinnamon-Lane,</hi> at the houſe of one Captain <hi>Allen,</hi> a perſon who uſually bore Command at Sea, and by the moſt true and exact account as we can yet get, but it is ſuppoſed true enough, by the means of a Drunken Fellow, whoſe ſenſes being drowned in the ſuperflu<g ref="char:EOLhyphen"/>ity of ſtrong drink, rendred him as much like a Beaſt<g ref="char:punc">▪</g> as it uſeth to do by all men, who inconſiderately drink to exceſs; but he coming home with his mind as care<g ref="char:EOLhyphen"/>leſs as his brain witleſs, and lodging in a Garret of the aforeſaid Captain <hi>Allens,</hi> he being drowſie and o<g ref="char:EOLhyphen"/>ver-loaded with Liquor, let his Candle fall into ſome Shavings which were in the Garret, which immedi<g ref="char:EOLhyphen"/>ately
+<pb n="2" facs="tcp:35742:4"/>
+               <!-- PDF PAGE 116 -->took fire, and burnt with ſuch vehemence, that it ſoon ſet the houſe all on a Flame, and in a moment as it were, conſumed that houſe even to the very ground, notwithſtanding the immediate diſcovery made by a Boy of about eight years of Age, and the great In<g ref="char:EOLhyphen"/>duſtry of the Neighbourhood, who were extraordinary active to ſuppreſs the raging Flame, yet by the ſtrength of the Wind, which then blew exceeding hard, the Flames increaſed, and run on with ſuch violence, that it is ſcarce imaginable, that all the Inhabitants were put into a fearful conſternation, ſome of them ſo affright<g ref="char:EOLhyphen"/>ed, that they came running into the ſtreet in their ſhift only; but yet the Fire grew fiercer and fiercer, and all their endeavours to obſtruct or hinder its progreſ<g ref="char:EOLhyphen"/>ſion, proved ineffectual, for by the ſeverity of the Wind it was carryed along irreſiſtably, water being at that time ſcarce, and the Inhabitants ſo amazed, that they had not ſenſe enough to ſecure what they might, the fire violently running through 3 or 4 houſes as it were even at once, deſtroying all before it, for the Buildings many of them being old, took fire as it were like Tinder, and run on for the ſpace of an hour and a half, before any Engines came to the aſſiſtance of the Sufferers, and by the narrowneſs of the Streets, the Flames had the advantage of firing on both ſides of the way; ſo that then it became terrible to behold; at laſt Engines came, but water being ſcarce, many of them proved unſerviceable, the Engineirs uſed their utmoſt Induſtry, but to ſmall effect.</p>
+            <p>And after, by the outrage of theſe conſuming flames, about a hundred houſes were deſtroyed, it was ordered that Powder ſhould be conveyed thither from the
+<pb n="3" facs="tcp:35742:4"/>
+               <!-- PDF PAGE 116 -->Tower by Water, which was accordingly done, and Orders were given for blowing up, ſo that immediate<g ref="char:EOLhyphen"/>ly ſix houſes were Levelled; but the Timber lying in the way, took fire, and burnt more firecely then before, and ſo run down in ſpight of oppoſition, to the very Thames fide, which cauſed the Ships to weigh Anchor, and ſtand for the other ſhore; much damage was ſuſtain<g ref="char:EOLhyphen"/>ed, but ſome of them that lay neareſt the ſhore had their Shrowds fired; and one amongſt the reſt, was fired in her Fore-Caſtle, but by the double diligence of the Sailers, ſhe was preſerved; but, 'tis ſaid, that two Seamen haſtily getting on Board, fell into the Ri<g ref="char:EOLhyphen"/>ver, and one of them was loſt.</p>
+            <p>The poor Inhabitants diſorderly flying away from the outrage of the fire, and endeavoured to ſave what they could from the Flame; the Neighbouring fields were over-ſpread with the Goods that haſty removing had much damaged. About One in the morning the Life-Guard came with Powder, in hopes to Extinguiſh the fire, which then was hoped might be conquered, but the Wind riſing and turning into another Quar<g ref="char:EOLhyphen"/>ter, together with the fear of the people, ſeveral ha<g ref="char:EOLhyphen"/>ving been killed by Timber and the fall of Chimneys, Walls, and other places, the Flame went on without oppoſition, fiercely burning towards <hi>Shadwel,</hi> deſtroy<g ref="char:EOLhyphen"/>ing the new Buildings that were built after the great Fire, about five or ſix years ago; alſo Store Houſes, Ware-houſes, and Cranes, with great quantities of To<g ref="char:EOLhyphen"/>bacco and Brandy, Wood-yards in abundance were conſumed; and not a Cart to be got for money; and the Tyde being low; all hopes of help by Water were fruſtrated, ſo that by eight in the morning 6 or 7 hun<g ref="char:EOLhyphen"/>dred
+<pb n="4" facs="tcp:35742:5"/>
+               <!-- PDF PAGE 117 -->houſes were thought to be burnt, and about twen<g ref="char:EOLhyphen"/>ty blown up, and many more pulled down, notwith<g ref="char:EOLhyphen"/>ſtanding the diligence of the Water-men imployed by the Inſurers, who very boldly adventured their lives, hoping to ſecure the houſes Inſured.</p>
+            <p>It is unknown how many people were deſtroyed by this ſad accident, but it is without doubt there were many, three or four of which lay openly as objects of pitty to the ſorrowful beholders, and 'tis thought about forty more are burnt and maimed; one was knocked on the head by the fall of ſome part of a houſe which was blown up, and it is yet not known how many loſt their lives by this deplored Fire.</p>
+            <p>The greater Sufferer, as we are informed, is Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Warren,</hi> who it is reported, hath loſt ſome hundreds a year, beſides what he had Inſured. The Lady <hi>Ivey,</hi> ſo much commended both far and near for her great pitty and Charity, hath been a conſiderable ſufferer, whoſe loſs is much lamented by the poor, and I hope by the Rich alſo. All the Fields belonging to her, and be<g ref="char:EOLhyphen"/>tween that and <hi>Stepney,</hi> and alſo up to <hi>White Chappel,</hi> were covered and filled with the Goods of thoſe poor and much to be lamented people, who the day before, many of them thought themſelves to be in a happy condition, but now ruined and undone by the mercileſs Flame. Beſides, ſeveral Ships that lay in the River were filled with Goods, the like, except the great Fire of <hi>London,</hi> was ſcarce ever known; and greater would the loſs have been to ſeveral Timber-men, if they had not had the opportunity of ſaving their Tim<g ref="char:EOLhyphen"/>ber by the Water; ſome do affirm that it began by the careleſsneſs of the perſon aforeſaid, but it would
+<pb n="5" facs="tcp:35742:5"/>
+               <!-- PDF PAGE 117 -->be well if this might be a warning to all others to take care of their Candles, leſt the product of their negli<g ref="char:EOLhyphen"/>gence prove fatal and deſtructive, as this hath done, to the utter ruine of ſome, and the great detriment of thouſands.</p>
+            <p>We have this account alſo of one Fellow that was ſeized, and had ſeveral Fire-Balls found about him, who was with much difficulty, conveyed to the Watch-houſe, and there preſerved from the fury of the incenſed peo<g ref="char:EOLhyphen"/>ple, who otherwiſe would have undoubtedly killed him, but more of this you may expect hereafter.</p>
+            <p>On the <hi>Tueſday</hi> there was heard a moſt lamentable and mournful noiſe like groaning, near to a Celler belonging to a houſe that was blown up, which occa<g ref="char:EOLhyphen"/>ſioned many to ſuſpect that there might be ſome poor creatures even buried alive under the Rubbiſh, which being removed prov'd even ſo, for there they found five perſons in a miſerable plight, three of them being dead, and the other two not like to live; Lord grant that it may never be our lots, who now eſcaped this Calamity, ever to be left to the mercy of the mercileſs Flames; <hi>Amen.</hi>
+            </p>
+            <p>On <hi>Tueſday November</hi> the 21th. 1682. we had account that the number of Houſes computed to be conſumed, were 2000. amongſt which were two or three hundred blown up, and we hear, in the Execution thereof, about 40 were killed, and many more bruiſed and wounded; we hear at preſent only of one old woman that periſh<g ref="char:EOLhyphen"/>ed in the Flame, except it were the Maid of the houſe where it began, who it was feared, did taſte of the like Calamity. Sir <hi>John Wettwang</hi> who had a Ship a building there worth about 6 or 7 hundred pound, was very
+<pb n="6" facs="tcp:35742:6"/>
+               <!-- PDF PAGE 118 -->active, and by encouraging the Seamen by giving them Guinnies, happily preſerved her from the Flames, who had it been Burned, would have done much damage to other Houſes.</p>
+            <p>Amongſt the Houſes that were deſtroyed, the moſt chief and eminent were as followeth; Sir <hi>William War<g ref="char:EOLhyphen"/>rens,</hi> Mr. <hi>Hoopers,</hi> Mr. <hi>Wilſons,</hi> Mr. <hi>Hains,</hi> and Maſter <hi>Jackſons,</hi> who all kept conſiderable Deal-Yards, beſides one Mr. <hi>Grinball</hi> who kept a Maſt-Yard, and loſt ſeveral hundreds of pounds worth, beſides great ſtore of other Commodities of all ſorts conſumed by the fire.</p>
+            <p>At <hi>Wapping-wall</hi> it took hold of a pile of Building, called the old Water-houſe, which it conſumed in leſs then an hour, and then croſſing the way, burnt violent<g ref="char:EOLhyphen"/>ly towards the Water-ſide, and had it not been for the vigilancy and induſtry of his Grace the Duke of <hi>Alber<g ref="char:EOLhyphen"/>marle,</hi> and the Earl <hi>Craven,</hi> and the two Sherriffs of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> who by their wiſdom and induſtry put courage in<g ref="char:EOLhyphen"/>to the hearts of the never-daunted Seamen, it had been far worſe, by their ordering ſome houſes to be blown up, did put ſome preſent ſtop to it, which elſe had ſet fire to a great Ship which lay by <hi>Wapping-wall,</hi> but Tide coming in, they got her off, with ſeveral others which lay on Ground there.</p>
+            <p>The Fire, notwithſtanding the many Houſes which were blown up, burnt very fiercely to <hi>Kings-ſtreet-bridg,</hi> and near to <hi>New-Gravel-Lane,</hi> and there met with ſome Timber-Houſes, and others who were built with boards and Tarr'd on the out-ſide, which took Fire immediate<g ref="char:EOLhyphen"/>ly and burnt like Tow almoſt, ſo that it was 8 a Clock at night almoſt before they could get a head of it, the wind being very high, and continued weſterly all night and all day on Munday.</p>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:35742:6"/>
+            <!-- PDF PAGE 118 -->
+         </div>
+      </body>
+   </text>
+</TEI>
